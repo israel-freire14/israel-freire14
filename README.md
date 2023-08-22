@@ -12,9 +12,10 @@
 
 
 <div align="center"> 
-
+  
 <a href = "mailto:israelfreire999@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/israelfreiresantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href = "https://www.beecrowd.com.br/judge/pt/profile/641167"> <img src="https://img.shields.io/badge/-beecrowd-%23333?style=for-the-badge&logo=beecrowd&logoColor=white" target="_blank"></a>
  </div>
 
  ### Studying in this moment:
